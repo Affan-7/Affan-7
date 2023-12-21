@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=affan-7&color=brightgreen)
+
 # 💫 About Me:  
   
 
