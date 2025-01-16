@@ -6,7 +6,7 @@
 
 
 ###    
-Greetings! 👋 I'm Affan, a DevSecOps Engineer and an Open Source Enthusiast. I love contributing to the cloud native eco-system.
+Greetings! 👋 I'm Affan, a DevSecOps Engineer and an Open Source Enthusiast. I love contributing to the cloud native eco-system :)
   
 
 
