@@ -6,7 +6,7 @@
 
 
 ###    
-Greetings! 👋 I'm Affan, a DevOps Engineer and an Open Source Enthusiast with a deep-rooted passion for technology and open-source development. As a DevOps Engineer, I possess a strong background in AWS, DevOps, Kubernetes, Docker, and various programming languages, with a particular focus on Go programming. My ultimate goal is to contribute meaningfully to the world of technology while continually enhancing my expertise and collaborating with industry experts.
+Greetings! 👋 I'm Affan, a DevSecOps Engineer and an Open Source Enthusiast. I love contributing to the cloud native eco-system.
   
 
 
